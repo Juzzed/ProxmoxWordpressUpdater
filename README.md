@@ -3,7 +3,7 @@ Updates Wordpress over proxmox to latest version
 
 With this bash script you are able to update a wordpress container to the newest version over cli. 
 
-#Usage
+### Usage
 Please change the script variable to your likings. The variables are set to my enviroment
 
 For general usage please use ".script -h"
